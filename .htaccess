@@ -1,0 +1,13 @@
+#AuthUserFile /PATH/TO/YOUR/.HTPASSWD/FILE
+#AuthGroupFile /dev/null
+#AuthName "Restraint Access"
+#AuthType Basic
+#<Limit GET POST>
+#require valid-user
+#</Limit>
+
+AddDefaultCharset utf8
+
+RewriteEngine on
+RewriteCond $1 !^(index\.php|robots\.txt|css|js|img|swf|uploads|application/admin/ajax/)
+RewriteRule ^(.*)$ /index.php/$1 [L]
