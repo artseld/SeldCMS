@@ -28,7 +28,12 @@ Seld CMS 2 requrements depending on CodeIgniter 2 requirements.
 Installation
 ------------
 
-Coming soon ...
+CMS written on PHP and needed: apache web server + rewrite module, php 5.1+ and mysql extensions, mysql 5+.
+Download and unzip this code on your hosting in public directory. Create database with utf8 (utf8_general_ci) charset.
+Run SQL queries from INSTALL directory in order by name. Add credentials to your database in file application/config/database.php.
+Try to login as super administrator on page /admin/ with credentials: login admin, password admin123.
+
+TO BE CONTINUED ...
 
 Documentation
 -------------
