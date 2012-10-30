@@ -48,10 +48,11 @@ submitting a pull request, please follow the guidelines in the [CodeIgniter User
 Links
 -----
 
-You can get support and read additional infomation on our official site. Welcome!
+You can get support and read additional infomation on our official site http://artseld.com
+(CMS forum page: http://artseld.com/development/php/cms/). Welcome!
 
 [1]: http://artseld.com 
-[2]: http://artseld.com/development/php/cms/ [Seld CMS short overview (on Russian language, version 1.X)]
+[2]: http://artseld.com/development/php/cms/
 [3]: http://artseld.com/development/forum/seld-cms/
 [4]: http://codeigniter.com/
 [5]: http://codeigniter.com/user_guide/
