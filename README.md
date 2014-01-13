@@ -13,8 +13,8 @@ Coming soon ...
 SELD CMS 2.X (branches 2.X)
 ===========================
 
-What is Seld CMS 2?
--------------------
+What is the Seld CMS 2?
+-----------------------
 
 Seld CMS 2 is a PHP content managemenet system for building of any kinds of web-sites.
 Most important features are: simpicity, functionality and philosophy of writing all project logic using CMS interface.
